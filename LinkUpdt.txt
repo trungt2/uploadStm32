@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/trungt2/uploadStm32/refs/heads/main/blink1.bin",  
+  "link": "https://raw.githubusercontent.com/trungt2/uploadStm32/refs/heads/main/test1_uart.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
